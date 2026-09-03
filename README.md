@@ -106,6 +106,13 @@ This project is created for **educational and portfolio purposes**.
 Hey, I’m vinith a B.Tech Artificial intelligence and Data science Student.
 
 I’m passionate about Data Analytics and enjoy working on practical projects that help solve real-world problems using data.
----
 
-⭐ If you find this project useful, feel free to explore the repository and use it as a reference for learning Data Analytics.
+🚀 Stay Connected & Join my Data Community
+---
+If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
+
+
+💼 LinkedIn: [Vinith C](https://www.linkedin.com/in/vinith-c-9b6570277)
+
+Let’s connect professionally and grow your data career
+💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
