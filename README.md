@@ -21,13 +21,15 @@ The project focuses on:
 ```text
 customer_data_analysis/
 │
-├── Customer_Shopping_Behavior_Analysis.ipynb
-├── customer_behavior_sql_queries.sql
+├── Business_Problem_Statement.pdf
+├── LICENSE
+├── README.md
 ├── customer_behavior_dashboard.pbix
-├── data/
-│   └── customer_shopping_behavior.csv
-├── Business problem statement.pdf
-└── README.md
+├── customer_behavior_sql_queries.sql
+├── customer_behaviour_analysis.ipynb
+├── customer_behaviour_analysis.pptx
+├── customer_behaviour_analysis_dataset.csv
+└── customer_behaviour_analysis_report.pdf
 ```
 
 ## ⚙️ How to Use This Project
